@@ -1,4 +1,4 @@
-# 🌿 EFT-Ψ: A Multi-Agent Framework for Generating Emotion-Focused Mental Health Support Dialogues with Progressive Disclosure
+# 🌿 EFT-Ψ：用于生成渐进披露式情绪聚焦心理健康支持对话的多智能体框架
 
 [中文](README.md) | [English](README_en.md)
 
@@ -11,7 +11,6 @@
 🤗 **Model:** [EFT-Chat](https://modelscope.cn/models/dlq1998/EFT-Chat)
 
 ---
-
 ## 🧩 简介
 
 高质量、多轮且具有过程真实性的心理支持对话数据，是构建心理健康支持对话系统的重要基础。然而，现有基于大语言模型的数据构建方法仍存在一些局限：模拟来访者往往具有较高的开放性与自我觉察水平，容易过早、过于清晰地表达自身经历与心理问题；部分方法向咨询师提供较完整的个案背景或心理状态，使其具有近似“全知”的先验视角；同时，对情绪体验及咨询过程渐进性的建模仍相对不足。
