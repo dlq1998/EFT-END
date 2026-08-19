@@ -1,22 +1,14 @@
-# 🌿 EFT-Ψ：用于生成渐进披露式情绪聚焦心理健康支持对话的多智能体框架
+# 🌿 EFT-Ψ: A Multi-Agent Framework for Generating Emotion-Focused Mental Health Support Dialogues with Progressive Disclosure
 
 [中文](README.md) | [English](README_en.md)
 
-<p align="center">
-  <a href="https://modelscope.cn/datasets/dlq1998/EFT-END">
-    📚 EFT-END Dataset
-  </a>
-  &nbsp; | &nbsp;
-  <a href="https://modelscope.cn/models/dlq1998/EFT-Chat">
-    🤗 EFT-Chat Model
-  </a>
-  &nbsp; | &nbsp;
-  💻 Code
-  &nbsp; | &nbsp;
-  📄 Paper
-</p>
+[![Dataset](https://img.shields.io/badge/ModelScope-EFT--END-blue)](https://modelscope.cn/datasets/dlq1998/EFT-END)
+[![Model](https://img.shields.io/badge/ModelScope-EFT--Chat-orange)](https://modelscope.cn/models/dlq1998/EFT-Chat)
 
 > **EFT-Ψ → EFT-END → EFT-Chat**
+
+📚 **Dataset:** [EFT-END](https://modelscope.cn/datasets/dlq1998/EFT-END)  
+🤗 **Model:** [EFT-Chat](https://modelscope.cn/models/dlq1998/EFT-Chat)
 
 ---
 
