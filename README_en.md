@@ -1,15 +1,14 @@
-# 🌿 EFT-Ψ / EFT-END: Emotion-Focused Mental Health Support Dialogues with Progressive Disclosure
+# 🌿 EFT-Ψ: A Multi-Agent Framework for Generating Emotion-Focused Mental Health Support Dialogues with Progressive Disclosure
 
 [中文](README.md) | [English](README_en.md)
 
-> 🧠 **EFT-Ψ** is a knowledge-driven multi-agent framework grounded in **Emotion-Focused Therapy (EFT)** for generating multi-turn mental health support dialogues with progressive disclosure.
+[![Dataset](https://img.shields.io/badge/ModelScope-EFT--END-blue)](https://modelscope.cn/datasets/dlq1998/EFT-END)
+[![Model](https://img.shields.io/badge/ModelScope-EFT--Chat-orange)](https://modelscope.cn/models/dlq1998/EFT-Chat)
 
-**Paper Title:**
-*EFT-Ψ: A Multi-Agent Framework for Generating Emotion-Focused Mental Health Support Dialogues with Progressive Disclosure*
+> **EFT-Ψ → EFT-END → EFT-Chat**
 
-**Dataset:** EFT-END
-
-**Model:** EFT-Chat
+📚 **Dataset:** [EFT-END](https://modelscope.cn/datasets/dlq1998/EFT-END)  
+🤗 **Model:** [EFT-Chat](https://modelscope.cn/models/dlq1998/EFT-Chat)
 
 ---
 
