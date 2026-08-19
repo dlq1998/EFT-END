@@ -2,6 +2,22 @@
 
 [中文](README.md) | [English](README_en.md)
 
+<p align="center">
+  <a href="https://modelscope.cn/datasets/dlq1998/EFT-END">
+    📚 EFT-END Dataset
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://modelscope.cn/models/dlq1998/EFT-Chat">
+    🤗 EFT-Chat Model
+  </a>
+  &nbsp; | &nbsp;
+  💻 Code
+  &nbsp; | &nbsp;
+  📄 Paper
+</p>
+
+> **EFT-Ψ → EFT-END → EFT-Chat**
+
 ---
 
 ## 🧩 简介
